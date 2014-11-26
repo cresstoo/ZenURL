@@ -2,9 +2,16 @@ ZenURL Animation
 ---
 An animated mock-up of URL shortener, made by Keynote. 
 
-
+Static box version
 ![static box version](http://duran.qiniudn.com/media/zenurl-1.gif)
-[vid](https://vimeo.com/112936520) [.KEY file(keynote6+)]()
+[On vimeo](https://vimeo.com/112936520) 
+[Download keynote file(keynote6+)]()
 
+Flipping box version
 ![flipping box version](http://duran.qiniudn.com/media/zenurl-2.gif)
-[vid](https://vimeo.com/112936520) [.KEY file(keynote6+)]()
+[On vimeo](https://vimeo.com/112936520) 
+[Download keynote file(keynote6+)]()
+
+Here is the objects transition settings
+![sceenshot](http://duran.qiniudn.com/media/screenshot.png)
+
