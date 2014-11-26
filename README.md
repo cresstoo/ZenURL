@@ -17,5 +17,6 @@ ZenURL Animation
 [Download keynote file(keynote6+)](https://github.com/cresstoo/ZenURL/raw/master/zenurl２.zip)
 
 构件动画设置如下。 Keynote6里面的动画效果可以覆盖日常大部分交互效果，更个性化的就需要AE了。
+
 ![sceenshot](http://duran.qiniudn.com/media/screenshot.png)
 
